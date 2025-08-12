@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Estudiante avanzado de Ingeniería en Sistemas - UTN FRBA<br>
-  Desarrollador Java | Apasionado por la programación en general</em>
+  Desarrollador Java | Interesado por la programación en general</em>
 </p>
 
 ---
