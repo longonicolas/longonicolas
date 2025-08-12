@@ -1,5 +1,5 @@
-<h1 align="center">Hola! 👋, soy Nicolás Longo</h1>
-<h3 align="center">Soy estudiante avanzado de Ingenieria en Sistemas de la UTN FRBA, actualmente desempeñandome como desarrollador Java</h3>
+<h1 align="center">Hola! 👋, me llamo Nicolás Longo</h1>
+<h3 align="center">Soy un estudiante avanzado de la carrera de Ingenieria en Sistemas de la UTN FRBA, actualmente me desempeño como desarrollador Java, pero me interesa la programación en general! Te invito a revisar mis repos</h3>
 
 - 💬 Podemos charlar sobre **Java, spring, backend en general**
 
