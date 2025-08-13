@@ -10,7 +10,7 @@
 ### 🚀 Sobre mí
 - 💬 Me encanta charlar sobre **Java, Spring y backend en general**  
 - 🌱 Actualmente aprendiendo **React y maquetado frontend**  
-- 📫 Contáctame: <a href="mailto:nicolaslongog@gmail.com">nicolaslongog@gmail.com</a>  
+- 📫 Contactame: <a href="mailto:nicolaslongog@gmail.com">nicolaslongog@gmail.com</a>  
 
 ---
 
