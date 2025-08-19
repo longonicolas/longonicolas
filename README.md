@@ -59,7 +59,6 @@
 ### 📈 Mis estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=longonicolas&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longonicolas&layout=compact&theme=radical" alt="Lenguajes más usados" height="180"/>
 </p>
 
