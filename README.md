@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@
 
 ### 📂 Proyectos Destacados
 
-- [📊 **Sistema de Encuestas**](https://github.com/longonicolas/mi-proyecto-encuestas)  
+- [📊 **Sistema de Encuestas**](https://github.com/longonicolas/aplicacion-de-encuestas)  
   Plataforma fullstack (**Java Spring Boot + React**) con autenticación JWT y estadísticas personalizadas.  
 
 - [⚡ **Gestión de productos retail**](https://github.com/longonicolas/mercado-productos-retail)  
